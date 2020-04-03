@@ -1,0 +1,12 @@
+/Users/southsidejdot/Desktop/C#/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/southsidejdot/Desktop/C#/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/southsidejdot/Desktop/C#/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/southsidejdot/Desktop/C#/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/southsidejdot/Desktop/C#/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/southsidejdot/Desktop/C#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/southsidejdot/Desktop/C#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/southsidejdot/Desktop/C#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/southsidejdot/Desktop/C#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/southsidejdot/Desktop/C#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/southsidejdot/Desktop/C#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/southsidejdot/Desktop/C#/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
